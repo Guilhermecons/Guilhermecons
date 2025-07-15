@@ -2,7 +2,7 @@
 
 **`Mobile Developer`**
 
-Hello! I'm a student of Systems Analysis and Development at Senac, with a technical background in Electronics. I’ve been focusing on backend development with Node.js, RESTful API integration, SQL, and version control using Git and GitHub. Currently, I’m expanding my skills in mobile development with React Native.
+Hello! I'm a student of Systems Analysis and Development at Senac, with a technical background in Electronics. I’ve been focusing on backend development with Node.js, RESTful API integration, SQL, and version control using Git and GitHub. Currently, I’m expanding my skills in Mobile Developer with React Native.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-bueno-a4bba7246/">
