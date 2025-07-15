@@ -99,8 +99,8 @@ Hello! I'm a student of Systems Analysis and Development at Senac, with a techni
 
   <img 
     align="left" 
-    alt="Linguagens mais usadas" 
+    alt="Most used languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermecons&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermecons&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
